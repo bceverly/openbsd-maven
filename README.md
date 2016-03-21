@@ -1,4 +1,4 @@
-This is a GIT repository that stores maven dependencies for OpenBSD ports.
+This is a GIT repository that stores maven dependencies for the OpenBSD port of snakeyaml.
 
 The OpenBSD build system tries to be very safe when it builds things.  As a result, there is a download 
 phase (where it has access to the network) and a build phase (where it does not).  Unfortunately with 
